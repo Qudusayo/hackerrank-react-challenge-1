@@ -1,0 +1,8 @@
+assets/
+*.zip
+junit.xml
+node_modules/
+*.swo
+*.swp
+.watchman*
+.DS_Store

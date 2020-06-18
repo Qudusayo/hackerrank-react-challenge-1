@@ -1,0 +1,20 @@
+#navigation{
+    margin: 0 auto;
+}
+
+button {
+    background-color: #1BA94C;
+    outline: none;
+    border: none;
+    padding: 20px 40px;
+    font-size: large;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+button:disabled{
+    background-color: rgba(27, 169, 77, 0.664);
+}
